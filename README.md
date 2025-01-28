@@ -28,7 +28,7 @@ Hi there! 👋 I'm an aspiring professional passionate about technology, systems
 ---
 
 ## Highlights  
-- 📄 **[Resume](#)**  
-- 💡 **[Projects](#)**  
+- 📄 **[Resume]([#](https://docs.google.com/document/d/1SHaA5j0gMtk9vlSp88o1Zg-vHnxicFiJ7DVgbMdEqg0/edit?tab=t.0))**  
+- 💡 **[Projects]([#](https://hamzamuswara.wixsite.com/alhamzamuswaraportfo/projects))**  
 
 Let's connect and collaborate!
