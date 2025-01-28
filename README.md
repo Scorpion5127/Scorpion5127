@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Alhamza Muswara  
+**Data Scientist | Data Engineer | System Administrator**  
+
+🌍 **Connect with Me**  
+[Facebook](#) | [Twitter](#) | [LinkedIn](#) | [Instagram](#)  
+
+---
+
+## About Me  
+Hi there! 👋 I'm an aspiring professional passionate about technology, systems administration, and the data ecosystem. I thrive on solving problems, learning new tools, and contributing to innovative projects. Whether it's optimizing workflows, building robust systems, or exploring the power of data, I'm driven to make an impact in this dynamic field.
+
+---
+
+## Highlights  
+- 📄 **[Resume](#)**  
+- 💡 **[Projects](#)**  
+
+Let's connect and collaborate!
